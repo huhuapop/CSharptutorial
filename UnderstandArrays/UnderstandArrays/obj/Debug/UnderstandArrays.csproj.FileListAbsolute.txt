@@ -1,0 +1,7 @@
+C:\Users\huhuapop\source\repos\UnderstandArrays\UnderstandArrays\bin\Debug\UnderstandArrays.exe.config
+C:\Users\huhuapop\source\repos\UnderstandArrays\UnderstandArrays\bin\Debug\UnderstandArrays.exe
+C:\Users\huhuapop\source\repos\UnderstandArrays\UnderstandArrays\bin\Debug\UnderstandArrays.pdb
+C:\Users\huhuapop\source\repos\UnderstandArrays\UnderstandArrays\obj\Debug\UnderstandArrays.csprojAssemblyReference.cache
+C:\Users\huhuapop\source\repos\UnderstandArrays\UnderstandArrays\obj\Debug\UnderstandArrays.csproj.CoreCompileInputs.cache
+C:\Users\huhuapop\source\repos\UnderstandArrays\UnderstandArrays\obj\Debug\UnderstandArrays.exe
+C:\Users\huhuapop\source\repos\UnderstandArrays\UnderstandArrays\obj\Debug\UnderstandArrays.pdb

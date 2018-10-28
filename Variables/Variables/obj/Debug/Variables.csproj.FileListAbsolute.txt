@@ -1,0 +1,7 @@
+C:\Users\huhuapop\source\repos\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\huhuapop\source\repos\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\huhuapop\source\repos\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\huhuapop\source\repos\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\huhuapop\source\repos\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\huhuapop\source\repos\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\huhuapop\source\repos\Variables\Variables\obj\Debug\Variables.pdb

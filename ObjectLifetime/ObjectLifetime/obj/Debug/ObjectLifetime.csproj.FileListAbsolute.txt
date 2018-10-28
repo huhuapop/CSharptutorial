@@ -1,0 +1,7 @@
+C:\Users\huhuapop\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+C:\Users\huhuapop\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+C:\Users\huhuapop\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+C:\Users\huhuapop\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csprojAssemblyReference.cache
+C:\Users\huhuapop\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\huhuapop\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+C:\Users\huhuapop\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb

@@ -1,0 +1,7 @@
+C:\Users\huhuapop\source\repos\Decision\Decision\bin\Debug\Decision.exe.config
+C:\Users\huhuapop\source\repos\Decision\Decision\bin\Debug\Decision.exe
+C:\Users\huhuapop\source\repos\Decision\Decision\bin\Debug\Decision.pdb
+C:\Users\huhuapop\source\repos\Decision\Decision\obj\Debug\Decision.csprojAssemblyReference.cache
+C:\Users\huhuapop\source\repos\Decision\Decision\obj\Debug\Decision.csproj.CoreCompileInputs.cache
+C:\Users\huhuapop\source\repos\Decision\Decision\obj\Debug\Decision.exe
+C:\Users\huhuapop\source\repos\Decision\Decision\obj\Debug\Decision.pdb
