@@ -18,5 +18,15 @@ namespace SimpleMethod
         {
             Console.WriteLine("hello world");
         }
+
+        private static char[] stringTocharArrayThenReverse(string message)
+        {
+            char[] messageArray = message.ToCharArray();
+            Array.Reverse(messageArray);
+
+            return messageArray;
+        }
+
+      
     }
 }
